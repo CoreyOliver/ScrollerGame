@@ -9,6 +9,6 @@ canvas {
   border: solid white 2px;
 }
 
-#playerImage, #backgroundImage {
+#playerImage, #backgroundImage, #enemyImage {
   display: none;
 }
